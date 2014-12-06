@@ -3,6 +3,9 @@ Java Tutorium 2014
 
 hier befinden sich die Dateien und weiteres zum Tutorium
 
+## Basisklassen:
+* Mensch
+
 ## Prüfungsvorlagen:
 * 2011 SS
 * 2011 WS
