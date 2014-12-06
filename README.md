@@ -1,7 +1,7 @@
-java-tutorium
+Java Tutorium 2014
 =============
 
-Java Tutorium 2014
+hier befinden sich die Dateien und weiteres zum Tutorium
 
 ## Prüfungsvorlagen:
 * 2011 SS
@@ -17,3 +17,6 @@ Java Tutorium 2014
 * 2011 WS (Aufgabe 2-3)
 * 2012 SS (Aufgabe 2-4)
 * 2013 SS (Aufgabe 2)
+
+unbesprochene Lösungen gibt es unter:
+https://github.com/excelite/GdP2-Pruefungen
