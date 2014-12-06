@@ -5,6 +5,7 @@ hier befinden sich die Dateien und weiteres zum Tutorium
 
 ## Basisklassen:
 * Mensch
+* Student
 
 ## Prüfungsvorlagen:
 * 2011 SS
