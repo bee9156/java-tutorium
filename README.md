@@ -22,5 +22,5 @@ hier befinden sich die Dateien und weiteres zum Tutorium
 * 2012 SS (Aufgabe 2-4)
 * 2013 SS (Aufgabe 2)
 
-unbesprochene Lösungen gibt es unter:
+## Prüfungslösungen (unbesprochen):
 https://github.com/excelite/GdP2-Pruefungen
