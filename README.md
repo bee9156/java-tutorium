@@ -1,5 +1,7 @@
 Java Tutorium 2014
 =============
+Das Tutorium am 20.1. findet statt!
+=============
 
 hier befinden sich die Dateien und weiteres zum Tutorium
 
