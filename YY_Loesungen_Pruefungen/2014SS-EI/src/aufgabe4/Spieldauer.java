@@ -98,6 +98,7 @@ public class Spieldauer extends JFrame implements ActionListener{
 		switch (ae.getActionCommand()){
 		case "AC_V":
 			minuten++;
+			updateDisplay();
 			break;
 		case "AC_S":
 			// sicherstellen das alter Thread beendet wurde
